@@ -1,4 +1,4 @@
- //to cal the factors of a given no.
+ //to cal the HCF of a given no.
 #include<stdio.h>
 void main()
 {
