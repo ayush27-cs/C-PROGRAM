@@ -10,7 +10,7 @@ void main()
 			printf("* ");
 		}
 		
-		else if(i=4){
+		else if(i==4){
 			printf("* ");
 		}
 		else if(j==1||j==4){
