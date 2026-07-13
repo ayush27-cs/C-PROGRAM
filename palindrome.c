@@ -1,4 +1,4 @@
-12//palindrome number
+//palindrome number
 #include<stdio.h>
 void main(){
 	int n,original,reverse=0,digit;
