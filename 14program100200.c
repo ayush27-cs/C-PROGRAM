@@ -3,7 +3,7 @@
 void main()
 {
 	int a;
-	printf("Enter the value of a\n");
+	printf("Enter the value of a\n"); 
 	scanf("%d",&a);
 	if(a>100 && a<200)
 	{
